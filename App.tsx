@@ -106,7 +106,7 @@ function App() {
               <div className="absolute -right-2 -top-2">
                 <Globe className="w-8 h-8 text-green-500" />
               </div>
-              <h3 className="text-xl font-semibold">Investment Website | React.jsx</h3>
+              <h3 className="text-xl font-semibold">Investment Website | MERN</h3>
               <p className="text-gray-500">November 2024</p>
               <div className="mt-4 space-y-2">
                 <div className="flex items-start gap-2">
